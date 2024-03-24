@@ -1,6 +1,5 @@
 .picker{
     position: fixed;
-    right:0;
-    top:80px;
-    z-index: 200;
+    right: 0;
+    top:100px
 }

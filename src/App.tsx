@@ -1,13 +1,8 @@
-import BilliardsCanvas from './components/BilliardsTable'
-
+import Billiards from './components/Billiards'
 
 
 const App = () => {
-  return (
-    <div>
-      <BilliardsCanvas/>
-    </div>
-  )
+  return <Billiards/>
 }
 
 export default App
