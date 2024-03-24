@@ -30,7 +30,7 @@ const Billiards: React.FC = () => {
     setPicker((prevst) => !prevst);
   };
 
-console.log('xxx')
+
   useEffect(() => {
     const canvas = canvasRef.current;
     if (!canvas) return;
